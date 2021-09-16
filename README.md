@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Rodrigo.</h2>
+<h2> Hello there, fellow coders! I'm Rodrigo. 👋 </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Personal Info </h3>
 
@@ -23,6 +23,8 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
 <br/>
+
+<h3> ⚙️ &nbsp;GitHub Profile Data </h3>
 
 <a href="https://github.com/RSestrem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RSestrem&theme=buefy&show_icons=true" />
