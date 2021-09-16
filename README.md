@@ -1,4 +1,4 @@
-<h2> Hello there, fellow coders! I'm Rodrigo. 👋 </h2>
+<h2> Hello there, fellow developers! I'm Rodrigo. 👋 </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Personal Info </h3>
 
